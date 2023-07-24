@@ -1,0 +1,35 @@
+.hidden {
+    display: none;
+}
+
+.breed-select {
+    font-size: 20px;
+    font-weight: 400;
+    outline: none;
+}
+
+.loader {
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.cat-info {
+    display: flex;
+    align-items: center;
+}
+
+.description {
+    font-size: 20px;
+    font-weight: 500;
+    text-align: justify;
+}
+
+.search-card {
+    width: 500px;
+    margin-left: 50px;
+}
+
+
+.title-card {
+    font-size: 25px;
+}
